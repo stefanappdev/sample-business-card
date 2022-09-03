@@ -1,0 +1,100 @@
+
+.jb-img{
+width: 300px;
+height: 150px;
+}
+
+.jb-img>img{
+
+position: absolute;
+width: 256px;
+height: 100px;
+left: 500px;
+top: 320px;
+}
+
+
+
+
+
+
+
+#info-name{
+
+
+position: absolute;
+width: 256px;
+height: 150px;
+left: 500px;
+top: 400px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+color: #FFFFFF;
+background-color:#161619;
+
+
+}
+
+
+
+.dev{
+
+position: absolute;
+width: 256px;
+height: 150px;
+left: 500px;
+top: 440px;
+font-size: 15px;
+text-align: center;
+color: #FFC300 ;
+background-color:#161619;
+}
+
+.website{
+
+position: absolute;
+width: 256px;
+height: 150px;
+left: 500px;
+top: 470px;
+font-size: 12.5px;
+text-align: center;
+color:#F5F5F5;
+background-color:#161619;
+}
+
+
+.email-linkedin{
+display: inline-flex;
+position: absolute;
+width: 256px;
+height: 150px;
+left: 500px;
+top: 510px;
+padding-left:0.20px ;
+background-color:#161619;
+color: #DCDCDC;
+
+}
+
+.email-linkedin>button{
+
+margin-left:4px;
+border: none;
+
+border-radius: 2px;
+width: 100px;
+height: 20.50px;
+}
+
+.linkedin-btn{
+
+background-color:#297FE5 ;
+
+
+}
