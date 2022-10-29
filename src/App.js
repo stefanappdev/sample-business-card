@@ -1,5 +1,4 @@
 import React from "react"
-import About from "./components/About.js" 
 import Interests from "./components/Interests.js"
 import Info from "./components/Info.js"
 import Socials from "./components/Socials.js"
@@ -13,20 +12,19 @@ return(
   <>
  
     <div className='pg-bg'>
-            
 
              <br/>
              <br/>
 
 
-            <div className='card'>
+            <div className='head'>
             
-              <Info></Info>
-              <About></About> 
-              <Interests></Interests>
-              <Socials></Socials>
-
              </div>
+
+
+              <Info></Info>
+              <Socials></Socials>
+            
     </div>
 
     </>

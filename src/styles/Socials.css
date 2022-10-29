@@ -2,20 +2,15 @@
 #socials-div{
  position: absolute;	
  display: inline-flex;
- top: 835px;
+ top: 250px;
  left:500px;
- background-color:#161619;
  width: 256px;
-height: 150px;
-
-
+ height: 150px;
 }
 
 #socials-div>img{
 	
 	height: 45.5px;
 	margin:5px;
-    background-color:none;
 	
 }
-

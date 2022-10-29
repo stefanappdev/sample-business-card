@@ -1,21 +1,50 @@
 
-.jb-img{
-width: 300px;
-height: 150px;
-}
 
 .jb-img>img{
 
 position: absolute;
+border-radius:50%;
 width: 256px;
-height: 100px;
-left: 500px;
-top: 320px;
+height: 300px;
+left: 110px;
+top: 110px;
+padding:10.5px;
+}
+
+
+.jb-img{
+width: 500px;
+height: 550px;
+background-color:#000000;
+position:absolute;
+left:500px;
+
 }
 
 
 
 
+.details{
+	
+position: absolute;	
+left: -385.5px;
+top: 50px;	
+	
+	
+}
+
+
+.info-section{
+	
+position: absolute;	
+left: 20%;
+top: 20%;
+right:20%;
+bottom:20%;	
+
+	
+	
+}
 
 
 
@@ -27,6 +56,7 @@ width: 256px;
 height: 150px;
 left: 500px;
 top: 400px;
+
 font-family: 'Inter';
 font-style: normal;
 font-weight: 700;
@@ -34,14 +64,14 @@ font-size: 25px;
 line-height: 30px;
 text-align: center;
 color: #FFFFFF;
-background-color:#161619;
+
 
 
 }
 
 
 
-.dev{
+#dev{
 
 position: absolute;
 width: 256px;
@@ -51,11 +81,20 @@ top: 440px;
 font-size: 15px;
 text-align: center;
 color: #FFC300 ;
-background-color:#161619;
 
 }
 
-.website{
+
+
+
+.like-button{
+	
+	
+	position: absolute;
+	left: 500px
+}
+
+#website{
 
 position: absolute;
 width: 256px;
@@ -65,28 +104,6 @@ top: 470px;
 font-size: 12.5px;
 text-align: center;
 color:#F5F5F5;
-background-color:#161619;
 }
 
-
-.email-linkedin{
-display: inline-flex;
-position: absolute;
-width: 256px;
-height: 150px;
-left: 500px;
-top: 510px;
-background-color:#161619;
-color: #DCDCDC;
-
-}
-
-.email-linkedin>button{
-
-margin-left:4px;
-border: none;
-border-radius: 2px;
-width: 100px;
-height: 20.50px;
-}
 

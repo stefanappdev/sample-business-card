@@ -12,10 +12,9 @@ return  <>
 
 	        <div id='socials-div'>
 
-	              <img  src='./images/fb.png'/>	
+	              <img  src='./images/twitter.png'/>
 	              <img  src='./images/whatsapp.png'/>
 	              <img  src='./images/ig.png'/>
-	           	  <img  src='./images/snap.jpg'/>	
 
 
 	        </div>
