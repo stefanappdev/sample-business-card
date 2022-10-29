@@ -1,5 +1,4 @@
 import React from "react"
-import Interests from "./components/Interests.js"
 import Info from "./components/Info.js"
 import Socials from "./components/Socials.js"
 import './styles/App.css'

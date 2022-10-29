@@ -7,7 +7,7 @@ border-radius:50%;
 width: 256px;
 height: 300px;
 left: 110px;
-top: 110px;
+top: 90px;
 padding:10.5px;
 }
 
@@ -17,12 +17,14 @@ width: 500px;
 height: 550px;
 background-color:#000000;
 position:absolute;
-left:500px;
+left:200px;
 
 }
 
 
-
+#like-tag{
+color:#ffffff;	
+}
 
 .details{
 	
@@ -37,10 +39,6 @@ top: 50px;
 .info-section{
 	
 position: absolute;	
-left: 20%;
-top: 20%;
-right:20%;
-bottom:20%;	
 
 	
 	
@@ -91,8 +89,20 @@ color: #FFC300 ;
 	
 	
 	position: absolute;
-	left: 500px
+	left: 800px;
+	top:400px
 }
+
+.like-button>img{
+	
+	
+	height: 45.5px;
+	margin:5px;
+}
+
+
+
+
 
 #website{
 

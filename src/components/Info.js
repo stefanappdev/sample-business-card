@@ -29,12 +29,13 @@ function Info(){
 				<div class="details">
 				
 				<h1 id='info-name'>Steven John </h1>
-				<h2 id='dev'> Engineer</h2>
+				<h2 id='dev'> Frontend-Engineer</h2>
 				<h3 id='website'>Steven John.website</h3>
 				
 				<div class="like-button">
 						
 						<Like status={liked} handleclick={togglelike} />
+						<span id="like-tag">leave a like!</span>
 				</div >
 				
 				
