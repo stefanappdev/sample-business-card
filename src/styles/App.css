@@ -1,0 +1,70 @@
+.App-bg{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color:hsla(210, 90%, 48%, 0.5);
+}
+
+.card-bg{
+    background-color:black;
+    min-width:300px;
+    max-width:750px;
+    height: 85%;
+    color: antiquewhite;
+    }
+
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10%;
+    padding-top: 40%;
+    gap: 15px;
+    width: min-content;
+
+}
+
+.profession{
+    width: max-content;
+    color: hsla(60, 100%, 50%, 1);
+    margin-bottom:10px;
+    padding-left: 18%;
+}
+
+.dev{
+
+    padding-left: 20px;
+}
+
+
+img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.dev>img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.dev>figcaption{
+padding: 10px;
+}
+
+
+
+.socials{
+    display: inline-flex;
+    gap: 5px;
+    padding-left: 15%;
+}
+
+.like-button{
+ margin-top: 30px;
+ padding-left:40% ;   
+}
